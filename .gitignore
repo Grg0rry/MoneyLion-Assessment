@@ -1,3 +1,11 @@
+# to not commit
+data/clarity_underwriting_variables.csv
+data/loan.csv
+data/payment.csv
+MoneyLion.ipynb
+instructions.pdf
+data.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
